@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-01-08",
+  "scope": "B",
+  "target_count_min": 300,
+  "note": "Türkiye'de yaygın tüketilen yemek/paketli ürün/içecekler için geniş ham liste (300+). Bu liste özellikle arama/alias genişletme, kural tabanı ve UI otomatik tamamlama için başlangıç materyalidir.",
+  "meals": [
+    "Döner","Et döner","Tavuk döner","Döner dürüm","İskender","Döner pilav üstü",
+    "Adana kebap","Urfa kebap","Şiş kebap","Tavuk şiş","Beyti","Ali nazik","Patlıcan kebabı","Ciğer şiş","Testi kebabı",
+    "Köfte","İnegöl köfte","Tekirdağ köfte","Kasap köfte","Izgara köfte",
+    "Hamburger","Cheeseburger","Tavuk burger","Pizza","Lahmacun","Pide","Kuşbaşılı pide","Kaşarlı pide","Kıymalı pide",
+    "Etli ekmek","Tantuni","Kokoreç","Midye dolma","Balık ekmek","Kumpir","Sosisli","Tost",
+    "Çiğ köfte","Çiğ köfte dürüm","Kısır","Mercimek köftesi","İçli köfte","Fellah köftesi",
+    "Pilav","Pirinç pilavı","Bulgur pilavı","Nohutlu pilav","Tavuklu pilav",
+    "Kuru fasulye","Nohut yemeği","Mercimek yemeği","Barbunya","Taze fasulye","Bezelye","Bamya","Ispanak yemeği",
+    "Türlü","Patates yemeği","Karnıyarık","İmam bayıldı","Musakka","Patlıcan oturtma","Tavuk sote","Et sote","Sac kavurma",
+    "Yaprak sarma","Lahana sarma","Biber dolması","Kabak dolması","Enginar","Zeytinyağlı fasulye","Zeytinyağlı dolma",
+    "Mantı","Su böreği","Sigara böreği","Kol böreği","Gözleme","Poğaça","Açma","Simit","Bazlama","Pişi",
+    "Menemen","Sucuklu yumurta","Omlet","Haşlanmış yumurta",
+    "Çorba","Mercimek çorbası","Ezogelin çorbası","Tarhana çorbası","Yayla çorbası","Domates çorbası","Tavuk suyu çorba",
+    "İşkembe çorbası","Kelle paça","Paça çorbası","Beyran","Kuru fasulye çorbası",
+    "Makarna","Spagetti","Penne","Fırın makarna","Erişte","Mantarlı makarna","Kremalı makarna",
+    "Pilaki","Şakşuka","Karnabahar kızartması","Patates kızartması","Kızartma","Mücver",
+    "Salata","Çoban salata","Mevsim salata","Gavurdağı salatası","Sezar salata",
+    "Tavuk kanat","Kanat","But","Şinitzel","Tavuk nugget","Tavuk döner dürüm",
+    "Lahmacun dürüm","Dürüm","Adana dürüm","Urfa dürüm",
+    "Arnavut ciğeri","Ciğer tava","Hamsi tava","Balık ızgara","Somon","Levrek","Çupra",
+    "Karnıbahar yemeği","Brokoli","Kabak yemeği","Pırasa","Kereviz",
+    "Kahvaltı tabağı","Serpme kahvaltı",
+    "Baklava","Künefe","Kadayıf","Sütlaç","Kazandibi","Tavuk göğsü","Revani","Şekerpare","Tulumba","Lokma","Dondurma","Aşure","Helva"
+  ],
+  "packaged_products": [
+    "Cips","Patates cipsi","Mısır cipsi","Kraker","Bisküvi","Gofret","Çikolata","Şekerleme","Lokum","Jelibon",
+    "Kuruyemiş","Karışık kuruyemiş","Ay çekirdeği","Kabuklu çekirdek","Yer fıstığı","Fındık","Badem","Ceviz","Antep fıstığı",
+    "Fındık kreması","Tahin","Pekmez","Reçel","Bal",
+    "Hazır çorba","Bulyon","Hazır noodle","Makarna (paket)","Erişte (paket)","Bulgur (paket)","Pirinç (paket)","Un","İrmik","Yulaf",
+    "Kahvaltılık gevrek","Müsli","Granola",
+    "Konserve ton balığı","Konserve mısır","Konserve bezelye","Konserve fasulye","Konserve nohut",
+    "Salça","Domates salçası","Biber salçası","Ketçap","Mayonez","Hardal","Soya sosu","Acı sos","Barbekü sos",
+    "Turşu","Zeytin","Yeşil zeytin","Siyah zeytin",
+    "Sucuk (paketli)","Salam (paketli)","Sosis (paketli)","Pastırma",
+    "Süt","UHT süt","Yoğurt","Meyveli yoğurt","Ayran (paketli)","Kefir","Peynir","Beyaz peynir","Kaşar peyniri","Tulum peyniri",
+    "Tereyağı","Margarin","Krema",
+    "Ekmek (paketli)","Tost ekmeği","Lavaş (paketli)","Yufka (paketli)","Galeta","Grissini",
+    "Kek (paketli)","Brownie (paketli)","Puding","Krem şanti","Kakao","Çay (poşet)","Türk kahvesi (paket)","Granül kahve",
+    "Bebek maması","Bebek bisküvisi",
+    "Dondurulmuş patates","Dondurulmuş pizza","Dondurulmuş börek","Dondurulmuş nugget",
+    "Hazır köfte","Hazır döner","Hazır pizza tabanı",
+    "Makarna sosu","Pesto sos","Ranch sos",
+    "Çiğ köfte (paketli)","Dondurma","Dondurulmuş sebze"
+  ],
+  "beverages": [
+    "Su","Paketli su","Maden suyu","Sade soda","Meyveli soda","Gazoz","Kola","Portakallı gazlı içecek","Limonlu gazlı içecek",
+    "Meyve suyu","Nektar","Soğuk çay","Enerji içeceği","Spor içeceği",
+    "Çay","Poşet çay","Bitki çayı","Ihlamur","Adaçayı","Papatya çayı",
+    "Türk kahvesi","Filtre kahve","Espresso","Americano","Latte","Cappuccino","Mocha",
+    "Ayran","Kefir","Süt","Milkshake","Smoothie","Limonata","Şalgam","Boza","Salep"
+  ]
+}
+
+

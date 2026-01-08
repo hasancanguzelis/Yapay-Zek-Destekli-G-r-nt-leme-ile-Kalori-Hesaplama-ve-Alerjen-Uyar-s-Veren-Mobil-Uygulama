@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    
+    <!-- Elma gövdesi (yeşil) -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M100,20 C60,20 30,50 30,90 C30,130 60,160 100,160 C140,160 170,130 170,90 C170,50 140,20 100,20 Z" />
+    
+    <!-- Elma üst kısmı (daha açık yeşil) -->
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="M100,20 C80,20 50,40 40,70 C50,50 70,30 100,30 C130,30 150,50 160,70 C150,40 120,20 100,20 Z" />
+    
+    <!-- Elma sapı (kahverengi) -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M100,20 L105,10 L95,10 Z" />
+    
+    <!-- Elma yaprağı (yeşil) -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M105,10 Q115,5 120,15 Q115,20 110,18 Q108,12 105,10 Z" />
+    
+    <!-- Elma gölgesi (alt kısım) -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M100,160 C60,160 30,130 30,90 C30,120 60,150 100,150 C140,150 170,120 170,90 C170,130 140,160 100,160 Z" />
+</vector>
+

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TezProje</string>
+
+    <string name="tab_analyze">Analiz</string>
+    <string name="tab_health">Hastalıklar</string>
+    <string name="tab_assistant">Asistan</string>
+    <string name="tab_profile">Profil</string>
+    <string name="tab_settings">Ayarlar</string>
+
+    <string name="login_title">Giriş</string>
+    <string name="login_username">Kullanıcı adı</string>
+    <string name="login_password">Şifre</string>
+    <string name="login_button">Giriş Yap</string>
+    <string name="login_error_empty">Kullanıcı adı ve şifre boş olamaz.</string>
+    <string name="login_signup_link">Üye ol</string>
+    <string name="login_error_invalid_credentials">Kullanıcı adı veya şifre hatalı.</string>
+    <string name="login_error_generic">Giriş yapılamadı. Lütfen tekrar dene.</string>
+
+    <string name="register_title">Üye Ol</string>
+    <string name="register_password_confirm">Şifre (tekrar)</string>
+    <string name="register_button">Kayıt Ol</string>
+    <string name="register_login_link">Zaten üye misin? Giriş yap</string>
+    <string name="register_error_empty">Kullanıcı adı ve şifre boş olamaz.</string>
+    <string name="register_error_user_exists">Bu kullanıcı adı zaten kayıtlı.</string>
+    <string name="register_error_password_mismatch">Şifreler eşleşmiyor.</string>
+    <string name="register_error_generic">Kayıt olunamadı. Lütfen tekrar dene.</string>
+
+    <string name="settings_title">Ayarlar</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_system">Sistem</string>
+    <string name="settings_theme_light">Açık</string>
+    <string name="settings_theme_dark">Koyu</string>
+    <string name="settings_language">Dil</string>
+    <string name="settings_language_system">Sistem</string>
+    <string name="settings_language_tr">Türkçe</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_logout">Çıkış Yap</string>
+
+    <!-- Main Activity -->
+    <string name="mode_packaged">Paketli Ürün</string>
+    <string name="mode_meal">Tabaklı Yemek</string>
+    <string name="profile_allergen_label">Alerjen:</string>
+    <string name="profile_condition_label">Rahatsızlık:</string>
+    <string name="profile_edit">Profili Düzenle</string>
+    <string name="show">Göster</string>
+    <string name="hide">Gizle</string>
+
+    <!-- Profile Activity -->
+    <string name="profile_title">Profil</string>
+    <string name="allergens_label">Alerjenler</string>
+    <string name="conditions_label">Rahatsızlıklar</string>
+    <string name="add_allergen_hint">Alerjen ekle (örn: kivi)</string>
+    <string name="add_condition_hint">Rahatsızlık ekle (örn: IBS)</string>
+    <string name="add">Ekle</string>
+    <string name="save">Kaydet</string>
+
+    <!-- Diseases Activity -->
+    <string name="diseases_title">Hastalıklar</string>
+    <string name="diseases_subtitle">Hastalıklar hakkında bilgi ve beslenme tavsiyeleri</string>
+    <string name="disease_info_title">Hastalık Hakkında</string>
+    <string name="diet_advice_title">Beslenme Tavsiyeleri</string>
+
+    <!-- Assistant Activity -->
+    <string name="assistant_title">Yardımcı Asistan</string>
+    <string name="assistant_subtitle">Sağlık sorularınız için buradayım</string>
+    <string name="assistant_welcome">Merhaba! Sağlık ve beslenme konularında size nasıl yardımcı olabilirim? Sorularınızı yazabilir veya belirtilerinizi paylaşabilirsiniz.</string>
+    <string name="assistant_disclaimer">⚠️ ÖNEMLİ UYARI:\n\nBu uygulama tıbbi tavsiye, teşhis veya tedavi sağlamaz. Sağlık sorunlarınız için mutlaka bir sağlık kuruluşuna başvurun. Bu uygulama sadece farkındalık oluşturmak ve günlük yaşantınızı kolaylaştırmak için tasarlanmıştır. Ciddi belirtiler veya acil durumlar için derhal tıbbi yardım alın.</string>
+    <string name="assistant_message_hint">Mesajınızı yazın...</string>
+    <string name="send">Gönder</string>
+    <string name="thinking">Düşünüyorum...</string>
+    <string name="truncated">… (kısaltıldı)</string>
+
+    <!-- Nutrition Labels -->
+    <string name="nutrition_values">Besin Değerleri</string>
+    <string name="calories">Kalori</string>
+    <string name="fat">Yağ</string>
+    <string name="carbohydrate">Karbonhidrat</string>
+    <string name="protein">Protein</string>
+    <string name="sugar">Şeker</string>
+    <string name="salt">Tuz</string>
+    <string name="sodium">Sodyum</string>
+    <string name="macronutrients">Makro Besinler</string>
+    <string name="kcal_unit">(kcal)</string>
+    <string name="g_unit">(g)</string>
+    <string name="mg_unit">(mg)</string>
+
+    <!-- Main Activity - Analysis -->
+    <string name="profile_card_title">Profil</string>
+    <string name="profile_default_summary">Alerjen: -\nRahatsızlık: -</string>
+    <string name="barcode_hint">Barkod (zorunlu)</string>
+    <string name="scan_barcode">Canlı Barkod Tara</string>
+    <string name="analyze_barcode">Barkod ile Analiz Et</string>
+    <string name="analyze_label_photo">Etiket Fotoğrafı ile Analiz Et</string>
+    <string name="meal_name_hint">Yemek adı</string>
+    <string name="analyze_meal">Yemeği Analiz Et</string>
+    <string name="analyze_meal_image_calories">Fotoğraftan Kalori Tahmin Et (AI)</string>
+    <string name="previous_result_loaded">Önceki sonuç yüklendi</string>
+    <string name="ready">Hazır</string>
+    <string name="analyzing">Analiz ediliyor...</string>
+    <string name="analysis_complete">Analiz tamamlandı</string>
+    <string name="error">Hata</string>
+    <string name="source">kaynak:</string>
+    <string name="portion_hint">Porsiyon (örn: 1 / 1.5)</string>
+    <string name="text_not_readable">Metin okunamadı. Etiketi daha yakından çekin veya \'Galeri\'den net görsel seçin.</string>
+
+    <!-- Header -->
+    <string name="header_subtitle">Bilinçli tüket, sağlığını koru!</string>
+    <string name="header_description">Bilinçli beslenme, sağlıklı yaşamın temelidir. Ürün etiketlerini anlayarak kendinizi ve sevdiklerinizi koruyun.</string>
+    <string name="analysis_title">Etiket Analizi</string>
+</resources>
+
+
+
+
+

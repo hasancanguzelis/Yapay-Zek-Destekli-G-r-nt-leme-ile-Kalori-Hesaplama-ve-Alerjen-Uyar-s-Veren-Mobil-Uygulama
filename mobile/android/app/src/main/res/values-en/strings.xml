@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TezProje</string>
+
+    <string name="tab_analyze">Analyze</string>
+    <string name="tab_health">Diseases</string>
+    <string name="tab_assistant">Assistant</string>
+    <string name="tab_profile">Profile</string>
+    <string name="tab_settings">Settings</string>
+
+    <string name="login_title">Sign in</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Sign in</string>
+    <string name="login_error_empty">Username and password cannot be empty.</string>
+    <string name="login_signup_link">Sign up</string>
+    <string name="login_error_invalid_credentials">Invalid username or password.</string>
+    <string name="login_error_generic">Could not sign in. Please try again.</string>
+
+    <string name="register_title">Sign up</string>
+    <string name="register_password_confirm">Password (again)</string>
+    <string name="register_button">Create account</string>
+    <string name="register_login_link">Already have an account? Sign in</string>
+    <string name="register_error_empty">Username and password cannot be empty.</string>
+    <string name="register_error_user_exists">This username is already registered.</string>
+    <string name="register_error_password_mismatch">Passwords do not match.</string>
+    <string name="register_error_generic">Could not sign up. Please try again.</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_system">System</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_language_system">System</string>
+    <string name="settings_language_tr">Turkish</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_logout">Sign out</string>
+
+    <!-- Main Activity -->
+    <string name="mode_packaged">Packaged Product</string>
+    <string name="mode_meal">Plated Meal</string>
+    <string name="profile_allergen_label">Allergen:</string>
+    <string name="profile_condition_label">Condition:</string>
+    <string name="profile_edit">Edit Profile</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+
+    <!-- Profile Activity -->
+    <string name="profile_title">Profile</string>
+    <string name="allergens_label">Allergens</string>
+    <string name="conditions_label">Conditions</string>
+    <string name="add_allergen_hint">Add allergen (e.g.: kiwi)</string>
+    <string name="add_condition_hint">Add condition (e.g.: IBS)</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+
+    <!-- Diseases Activity -->
+    <string name="diseases_title">Diseases</string>
+    <string name="diseases_subtitle">Information about diseases and nutrition recommendations</string>
+    <string name="disease_info_title">About the Disease</string>
+    <string name="diet_advice_title">Nutrition Recommendations</string>
+
+    <!-- Assistant Activity -->
+    <string name="assistant_title">Assistant</string>
+    <string name="assistant_subtitle">I\'m here for your health questions</string>
+    <string name="assistant_welcome">Hello! How can I help you with health and nutrition topics? You can write your questions or share your symptoms.</string>
+    <string name="assistant_disclaimer">⚠️ IMPORTANT WARNING:\n\nThis application does not provide medical advice, diagnosis, or treatment. Please consult a healthcare provider for any health concerns. This application is designed only to raise awareness and facilitate your daily life. Seek immediate medical attention for serious symptoms or emergencies.</string>
+    <string name="assistant_message_hint">Type your message...</string>
+    <string name="send">Send</string>
+    <string name="thinking">Thinking...</string>
+    <string name="truncated">… (truncated)</string>
+
+    <!-- Nutrition Labels -->
+    <string name="nutrition_values">Nutritional Values</string>
+    <string name="calories">Calories</string>
+    <string name="fat">Fat</string>
+    <string name="carbohydrate">Carbohydrate</string>
+    <string name="protein">Protein</string>
+    <string name="sugar">Sugar</string>
+    <string name="salt">Salt</string>
+    <string name="sodium">Sodium</string>
+    <string name="macronutrients">Macronutrients</string>
+    <string name="kcal_unit">(kcal)</string>
+    <string name="g_unit">(g)</string>
+    <string name="mg_unit">(mg)</string>
+
+    <!-- Main Activity - Analysis -->
+    <string name="profile_card_title">Profile</string>
+    <string name="profile_default_summary">Allergen: -\nCondition: -</string>
+    <string name="barcode_hint">Barcode (required)</string>
+    <string name="scan_barcode">Scan Live Barcode</string>
+    <string name="analyze_barcode">Analyze with Barcode</string>
+    <string name="analyze_label_photo">Analyze with Label Photo</string>
+    <string name="meal_name_hint">Dish name</string>
+    <string name="analyze_meal">Analyze Meal</string>
+    <string name="analyze_meal_image_calories">Estimate Calories from Photo (AI)</string>
+    <string name="previous_result_loaded">Previous result loaded</string>
+    <string name="ready">Ready</string>
+    <string name="analyzing">Analyzing...</string>
+    <string name="analysis_complete">Analysis complete</string>
+    <string name="error">Error</string>
+    <string name="source">source:</string>
+    <string name="portion_hint">Portion (e.g.: 1 / 1.5)</string>
+    <string name="text_not_readable">Text could not be read. Take the label photo closer or select a clear image from \'Gallery\'.</string>
+
+    <!-- Header -->
+    <string name="header_subtitle">Consume consciously, protect your health!</string>
+    <string name="header_description">Conscious nutrition is the foundation of a healthy life. Protect yourself and your loved ones by understanding product labels.</string>
+    <string name="analysis_title">Label Analysis</string>
+</resources>
+
+

@@ -1,0 +1,49 @@
+# ---- OS / Editor ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.idea/
+*.iml
+.vscode/
+
+# ---- Android / Gradle ----
+**/.gradle/
+**/build/
+**/captures/
+**/local.properties
+**/*.apk
+**/*.aab
+**/*.keystore
+**/*.jks
+**/gradle-*-bin.zip
+.gradle-dist-*/
+**/app/build/
+**/build/
+
+# ---- Kotlin / Java ----
+**/out/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# venv
+.venv/
+venv/
+ENV/
+
+# dotenv (local)
+backend/.env
+backend/.env.*
+
+# ---- Local datasets / models ----
+backend/data/
+backend/models/
+backend/tessdata/
+
+

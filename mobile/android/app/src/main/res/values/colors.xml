@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Legacy defaults (kept to avoid breaking any accidental references) -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- TezProje: Modern green palette (Day) -->
+    <color name="app_primary">#1B5E20</color>
+    <color name="app_primary_variant">#0F4D1A</color>
+    <color name="app_on_primary">#FFFFFF</color>
+
+    <color name="app_secondary">#2E7D32</color>
+    <color name="app_secondary_variant">#1F6A26</color>
+    <color name="app_on_secondary">#FFFFFF</color>
+
+    <color name="app_background">#F4FBF5</color>
+    <color name="app_on_background">#102012</color>
+    <color name="app_surface">#FFFFFF</color>
+    <color name="app_on_surface">#102012</color>
+
+    <color name="app_primary_container">#CFF3D3</color>
+    <color name="app_on_primary_container">#0E2A12</color>
+
+    <color name="app_outline">#C7D7C9</color>
+    <color name="app_error">#B3261E</color>
+    <color name="app_on_error">#FFFFFF</color>
+
+    <!-- Warning card (Day) -->
+    <color name="warning_bg">#FDECEA</color>
+    <color name="warning_stroke">#B3261E</color>
+    <color name="warning_title">#B3261E</color>
+    <color name="warning_text">#4A1C1A</color>
+</resources>
+
+
+
+
+

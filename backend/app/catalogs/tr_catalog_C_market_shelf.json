@@ -1,0 +1,135 @@
+{
+  "generated_at": "2026-01-08",
+  "scope": "C",
+  "note": "Türkiye market rafı odaklı kategori kataloğu: kategori -> örnek ürünler -> yaygın marka örnekleri. Marka listeleri temsilidir; bölge/market zincirine göre değişir.",
+  "categories": [
+    {
+      "category_tr": "Gazlı içecekler",
+      "examples": ["kola", "gazoz", "portakallı gazlı içecek", "tonik"],
+      "common_brands": ["Coca-Cola", "Pepsi", "Fanta", "Sprite", "Schweppes", "Uludağ Gazoz"]
+    },
+    {
+      "category_tr": "Maden suyu / soda",
+      "examples": ["sade maden suyu", "meyveli maden suyu"],
+      "common_brands": ["Beypazarı", "Kızılay", "Uludağ", "Sırma", "San Pellegrino"]
+    },
+    {
+      "category_tr": "Paketli su",
+      "examples": ["pet şişe su", "damacana su"],
+      "common_brands": ["Erikli", "Hayat", "Saka", "Pınar Su", "Nestlé Pure Life"]
+    },
+    {
+      "category_tr": "Meyve suyu / nektar",
+      "examples": ["portakal suyu", "şeftali nektarı", "karışık meyve suyu"],
+      "common_brands": ["Dimes", "Cappy", "Tamek", "Pınar", "Juico"]
+    },
+    {
+      "category_tr": "Soğuk çay",
+      "examples": ["şeftalili soğuk çay", "limonlu soğuk çay"],
+      "common_brands": ["Lipton Ice Tea", "Fuse Tea"]
+    },
+    {
+      "category_tr": "Enerji içeceği",
+      "examples": ["enerji içeceği", "şekersiz enerji içeceği"],
+      "common_brands": ["Red Bull", "Monster", "Burn"]
+    },
+    {
+      "category_tr": "Çay",
+      "examples": ["siyah çay", "poşet çay", "demlik poşet"],
+      "common_brands": ["Çaykur", "Doğuş", "Lipton"]
+    },
+    {
+      "category_tr": "Kahve",
+      "examples": ["türk kahvesi", "granül kahve", "kapsül kahve", "filtre kahve"],
+      "common_brands": ["Kurukahveci Mehmet Efendi", "Nescafé", "Jacobs", "Tchibo", "Starbucks"]
+    },
+    {
+      "category_tr": "Süt ve süt ürünleri",
+      "examples": ["süt", "yoğurt", "ayran", "kefir", "peynir", "tereyağı", "krema"],
+      "common_brands": ["Sütaş", "Pınar", "İçim", "Danone", "Sek", "Torku"]
+    },
+    {
+      "category_tr": "Şarküteri",
+      "examples": ["sucuk", "sosis", "salam", "pastırma"],
+      "common_brands": ["Pınar", "Banvit", "Namet", "Şenpiliç", "Cumhuriyet"]
+    },
+    {
+      "category_tr": "Atıştırmalık - cips",
+      "examples": ["patates cipsi", "mısır cipsi", "tortilla cipsi"],
+      "common_brands": ["Lay's", "Ruffles", "Doritos", "Pringles"]
+    },
+    {
+      "category_tr": "Atıştırmalık - bisküvi/kraker/gofret",
+      "examples": ["bisküvi", "kraker", "gofret", "kek (paket)"],
+      "common_brands": ["Ülker", "Eti", "Torku"]
+    },
+    {
+      "category_tr": "Çikolata ve şekerleme",
+      "examples": ["çikolata", "şekerleme", "jelibon", "draje"],
+      "common_brands": ["Ülker", "Eti", "Nestlé", "Milka", "Ferrero"]
+    },
+    {
+      "category_tr": "Kuruyemiş",
+      "examples": ["karışık kuruyemiş", "fındık", "badem", "ceviz", "çekirdek", "yer fıstığı"],
+      "common_brands": ["Tadım", "Çitlekçi"]
+    },
+    {
+      "category_tr": "Kahvaltılık - bal/reçel/pekmez",
+      "examples": ["bal", "reçel", "pekmez", "fındık kreması"],
+      "common_brands": ["Torku", "Ülker", "Eti", "Koska"]
+    },
+    {
+      "category_tr": "Soslar",
+      "examples": ["ketçap", "mayonez", "hardal", "soya sosu", "acı sos"],
+      "common_brands": ["Calve", "Heinz", "Tamek", "Tat"]
+    },
+    {
+      "category_tr": "Turşu / zeytin",
+      "examples": ["turşu", "yeşil zeytin", "siyah zeytin"],
+      "common_brands": ["Tat", "Dardanel", "Marmarabirlik"]
+    },
+    {
+      "category_tr": "Bakliyat",
+      "examples": ["nohut", "mercimek", "fasulye", "pirinç", "bulgur"],
+      "common_brands": ["Duru", "Yayla", "Reis"]
+    },
+    {
+      "category_tr": "Makarna / unlu gıdalar",
+      "examples": ["makarna", "un", "irmik", "yulaf"],
+      "common_brands": ["Filiz", "Barilla", "Duru", "Sinangil"]
+    },
+    {
+      "category_tr": "Hazır çorba / hazır yemek",
+      "examples": ["hazır çorba", "bulyon", "hazır noodle"],
+      "common_brands": ["Knorr", "Maggi", "Nissin"]
+    },
+    {
+      "category_tr": "Konserve",
+      "examples": ["ton balığı", "mısır", "bezelye", "fasulye", "domates ürünleri"],
+      "common_brands": ["Dardanel", "SuperFresh", "Tat", "Tamek"]
+    },
+    {
+      "category_tr": "Dondurulmuş gıdalar",
+      "examples": ["dondurulmuş patates", "dondurulmuş pizza", "dondurulmuş börek", "dondurulmuş nugget"],
+      "common_brands": ["SuperFresh", "Banvit", "Pınar"]
+    },
+    {
+      "category_tr": "Ekmek/hamur işleri (paketli)",
+      "examples": ["tost ekmeği", "lavaş", "yufka", "galeta"],
+      "common_brands": ["Uno", "Söke", "Sinangil"]
+    },
+    {
+      "category_tr": "Diyet/şekersiz ürünler",
+      "examples": ["şekersiz bisküvi", "light içecek", "diyet kola"],
+      "common_brands": ["Coca-Cola (Zero)", "Pepsi (Max)", "Ülker", "Eti"]
+    },
+    {
+      "category_tr": "Bebek ürünleri",
+      "examples": ["bebek maması", "bebek bisküvisi"],
+      "common_brands": ["Aptamil", "Hero Baby", "Bebelac"]
+    }
+  ]
+}
+
+
+
