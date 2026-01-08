@@ -1,0 +1,1 @@
+# Yapay-Zek-Destekli-G-r-nt-leme-ile-Kalori-Hesaplama-ve-Alerjen-Uyar-s-Veren-Mobil-Uygulama
